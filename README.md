@@ -1,5 +1,7 @@
 # testClone
 
-This is a project prac for git clone 
+This is a project for practice git clone 
 
-The first commit
+The first commit.
+
+The second commit.
